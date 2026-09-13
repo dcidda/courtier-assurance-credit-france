@@ -58,6 +58,36 @@ Ordre de préférence des sources :
 3. Rien d'autre. Les sites d'organismes de formation — y compris celui du
    mainteneur de ce skill — ne sont pas des sources de droit.
 
+## Règle de citation — identifier un arrêté par son NOR, jamais par sa date
+
+**Arrêt obligatoire.** Quand une question désigne un texte par sa seule date —
+« l'arrêté du 9 juin 2016 », « l'arrêté de 2022 » — ne pas répondre avant
+d'avoir identifié lequel. Le réflexe naturel est de compléter la référence par
+supposition : c'est exactement l'erreur à ne pas commettre.
+
+**Quatre arrêtés sont datés du 9 juin 2016** et touchent l'intermédiation. Un
+seul est abrogé.
+
+| Objet | NOR | Identifiant | État au 11/09/2026 |
+|---|---|---|---|
+| application de l'article D. 313-10-2 C. consommation (porte les 7 h) | FCPT1610795A | JORFTEXT000032675834 | en vigueur ; modifié par l'arrêté du 14 août 2026 |
+| registre unique | FCPT1613759A | JORFTEXT000032675862 | en vigueur |
+| programmes de formation des IOBSP | FCPT1610790A | JORFTEXT000032675903 | **abrogé** depuis le 30/07/2022 |
+| conditions de capacité professionnelle | FCPT1610793A | JORFTEXT000032675950 | en vigueur |
+
+Les identifiants `…834` et `…903` ne diffèrent que par quelques chiffres.
+**Vérifier l'identifiant, pas la date.**
+
+Réponse attendue à « l'arrêté du 9 juin 2016 est-il toujours en vigueur ? » :
+**ne pas trancher**. Exposer que quatre textes portent cette date, donner le
+tableau, et demander l'objet, le NOR ou l'identifiant. Répondre « oui » ou
+« non » à cette question est une faute, même si le texte auquel on pense se
+trouve être le bon : la réponse expose l'interlocuteur à citer un texte mort, ou
+à croire abrogé un texte vivant. **Les deux erreurs se sont produites.**
+
+La même prudence vaut pour toute date portant plusieurs textes. En cas de doute
+sur l'unicité d'une référence, la traiter comme ambiguë.
+
 ## Règle de fraîcheur
 
 Chaque fiche porte un champ `derniere_verification`.
@@ -163,6 +193,12 @@ ce cas, le dire : « la réponse dépend de X, voici les deux cas ».
 
 Le point 1 est celui que l'intermédiaire ne pense presque jamais à préciser, et
 c'est le plus souvent celui qui change tout.
+
+Quand le statut n'est pas déductible, ou quand la question est ouverte
+(« quelle formation dois-je faire ? »), commencer par
+`commun/quelle-obligation-me-concerne.md` : c'est l'arbre d'orientation, il
+sépare crédit immobilier, crédit à la consommation et assurance, et traite le
+double statut.
 
 | Situation | Régime | Fiche |
 |---|---|---|
