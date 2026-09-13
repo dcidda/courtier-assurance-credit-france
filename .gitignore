@@ -1,0 +1,16 @@
+# États de travail intermédiaires — ne jamais publier.
+# Ils contiennent des versions antérieures du même corpus, avec l'ancien nom et
+# des formulations depuis corrigées. Publiés, ils offriraient à un lecteur pressé
+# des versions périmées avec la même apparence d'autorité que les fiches à jour.
+_archive-v0/
+_contributions-codex-2026-09-08/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*~
