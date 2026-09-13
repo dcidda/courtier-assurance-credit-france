@@ -146,6 +146,25 @@ corrections passent par pull request, jamais par commit direct.
 Une erreur, un article périmé, une source plus précise : ouvrez une issue en
 citant le texte. Les corrections sourcées sont intégrées en priorité.
 
+## Licence
+
+Corpus publié sous **Creative Commons Attribution 4.0 International**
+([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)) — texte
+intégral dans le fichier `LICENSE`.
+
+Réutilisation libre, y compris commerciale et modifiée, à une condition :
+citer la source sous la forme *« dcidda.fr — https://dcidda.fr/ressources/ »*
+et indiquer si le contenu a été modifié.
+
+Les textes de loi cités (Légifrance) ne sont pas couverts par cette licence :
+ils relèvent du régime des données publiques. La licence porte sur la
+rédaction, la structuration et la mise en relation des fiches.
+
+**L'attribution ne vaut pas caution.** Une réutilisation modifiée ne peut pas
+laisser entendre que dcidda.fr approuve le résultat, ni que celui-ci reste
+à jour. Chaque fiche porte sa date de dernière vérification : une copie
+figée vieillit sans le signaler.
+
 ---
 
 *Maintenu par dcidda.fr — organisme de formation spécialisé dans la formation
