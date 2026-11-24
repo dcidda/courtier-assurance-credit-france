@@ -9,8 +9,7 @@ derniere_verification: 2026-09-08
 
 ## Réponse courte
 
-L'article **R. 511-2, I du Code des assurances** définit les catégories
-d'intermédiaires. Les quatre catégories d'immatriculation courantes :
+L'article **R. 511-2, I du Code des assurances** définit les catégories d'intermédiaires. Les quatre catégories d'immatriculation courantes :
 
 | Sigle d'usage | Catégorie (R. 511-2, I) | Mandat |
 |---|---|---|
@@ -19,52 +18,27 @@ d'intermédiaires. Les quatre catégories d'immatriculation courantes :
 | MA | 3° Mandataire d'assurance | Mandat d'une entreprise d'assurance, hors agents généraux |
 | MIA | 4° Mandataire d'intermédiaire | Mandats de personnes des catégories 1°, 2°, 3° ou 6° (intermédiaires européens) |
 
-S'y ajoutent les salariés commis (5°) — qui ne s'immatriculent pas — et les
-intermédiaires européens en LPS/LE (6°).
+S'y ajoutent les salariés commis (5°) — qui ne s'immatriculent pas — et les intermédiaires européens en LPS/LE (6°).
 
 ## En pratique
 
-**L'activité des MA et MIA est limitée par le texte** : présentation,
-proposition ou aide à la conclusion d'une opération d'assurance, éventuellement
-encaissement matériel des primes et, en vie-capitalisation, remise matérielle
-des sommes dues. Cette limitation ne s'applique pas aux établissements de
-crédit et sociétés de financement, ni à certaines branches transport
-(4 à 7, 11, 12, et 10 pour la responsabilité du transporteur).
+**L'activité des MA et MIA est limitée par le texte** : présentation, proposition ou aide à la conclusion d'une opération d'assurance, éventuellement encaissement matériel des primes et, en vie-capitalisation, remise matérielle des sommes dues. Cette limitation ne s'applique pas aux établissements de crédit et sociétés de financement, ni à certaines branches transport (4 à 7, 11, 12, et 10 pour la responsabilité du transporteur).
 
-**Le cumul de catégories est possible.** R. 511-2, II : un intermédiaire peut
-exercer au titre de plusieurs catégories parmi les 1° à 4°. En ce cas il
-justifie des exigences de capacité les plus élevées (R. 512-13).
+**Le cumul de catégories est possible.** R. 511-2, II : un intermédiaire peut exercer au titre de plusieurs catégories parmi les 1° à 4°. En ce cas il justifie des exigences de capacité les plus élevées (R. 512-13).
 
-**La catégorie détermine qui porte la responsabilité et les garanties.** Le
-siège de l'obligation de RC professionnelle est **L. 512-6** : tout
-intermédiaire souscrit un contrat, *sauf* si cette assurance ou une garantie
-équivalente lui est fournie par l'entreprise ou l'intermédiaire pour le compte
-duquel il agit, ou si ceux-ci assument l'entière responsabilité de ses actes.
-C'est la voie usuelle des catégories 2°, 3° et 4° (le dossier ORIAS l'atteste
-au titre de A. 512-1, 6°) ; le courtier, lui, souscrit sa propre RC pro et,
-s'il encaisse des fonds, une garantie financière.
+**La catégorie détermine qui porte la responsabilité et les garanties.** Le siège de l'obligation de RC professionnelle est **L. 512-6** : tout intermédiaire souscrit un contrat, *sauf* si cette assurance ou une garantie équivalente lui est fournie par l'entreprise ou l'intermédiaire pour le compte duquel il agit, ou si ceux-ci assument l'entière responsabilité de ses actes. C'est la voie usuelle des catégories 2°, 3° et 4° (le dossier ORIAS l'atteste au titre de A. 512-1, 6°) ; le courtier, lui, souscrit sa propre RC pro et, s'il encaisse des fonds, une garantie financière.
 
-**Tous sont des intermédiaires d'assurance à part entière** au sens de
-L. 511-1, III — y compris le MIA. La formation continue de 15 h s'applique dans
-les conditions de droit commun (voir `ias/mandataire-mia.md`), et l'obligation
-d'adhésion à une association professionnelle agréée vise les courtiers (et
-leurs mandataires dans les conditions de L. 513-3).
+**Tous sont des intermédiaires d'assurance à part entière** au sens de L. 511-1, III — y compris le MIA. La formation continue de 15 h s'applique dans les conditions de droit commun (voir /ressources/mandataire-mia-15h), et l'obligation d'adhésion à une association professionnelle agréée vise les courtiers (et leurs mandataires dans les conditions de L. 513-3).
 
 ## Ce que ça ne couvre pas
 
-- **L'intermédiaire d'assurance à titre accessoire** (L. 511-1, III) : statut
-  distinct des catégories ci-dessus, à trois conditions cumulatives.
-- **Les catégories IOBSP** (COBSP, MOBSPL, MOBSP, MIOBSP), régies par
-  R. 519-4 CMF — registre indépendant, voir `iobsp/categories-iobsp.md`.
-- **Le régime de capacité professionnelle détaillé** par catégorie (niveaux,
-  stage de 150 h de R. 512-9, allègements de R. 512-10 et R. 512-12).
+- **L'intermédiaire d'assurance à titre accessoire** (L. 511-1, III) : statut distinct des catégories ci-dessus, à trois conditions cumulatives — voir /ressources/iata-exemption.
+- **Les catégories IOBSP** (COBSP, MOBSPL, MOBSP, MIOBSP), régies par R. 519-4 CMF — registre indépendant, voir /ressources/categories-iobsp.
+- **Le régime de capacité professionnelle détaillé** par catégorie (niveaux, stage de 150 h de R. 512-9, allègements de R. 512-10 et R. 512-12).
 
 ## Point de vigilance — une pratique de place
 
-« MIA = statut allégé, sans obligations » : faux. Le MIA est immatriculé,
-soumis à honorabilité, capacité professionnelle et formation continue. Ce qui
-est allégé, c'est la couverture RC (portée par le mandant) et, le cas échéant,
-la garantie financière — pas les obligations professionnelles.
+« MIA = statut allégé, sans obligations » : faux. Le MIA est immatriculé, soumis à honorabilité, capacité professionnelle et formation continue. Ce qui est allégé, c'est la couverture RC (portée par le mandant) et, le cas échéant, la garantie financière — pas les obligations professionnelles.
 
 ## Base juridique
 
@@ -88,9 +62,7 @@ la garantie financière — pas les obligations professionnelles.
 
 ## Dernière vérification
 
-**8 septembre 2026.** R. 511-2, A. 512-1 et L. 512-6 lus directement sur
-Légifrance, versions en vigueur inchangées (R. 511-2 et L. 512-6 depuis le
-01/10/2018, A. 512-1 depuis le 01/06/2023).
+**8 septembre 2026.** R. 511-2, A. 512-1 et L. 512-6 lus directement sur Légifrance, versions en vigueur inchangées (R. 511-2 et L. 512-6 depuis le 01/10/2018, A. 512-1 depuis le 01/06/2023).
 
 ---
 

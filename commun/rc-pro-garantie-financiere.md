@@ -9,18 +9,11 @@ derniere_verification: 2026-09-08
 
 ## Réponse courte
 
-La **RC professionnelle** couvre les conséquences financières des fautes
-professionnelles. La **garantie financière** protège les fonds confiés à
-l'intermédiaire. Elles ne répondent donc pas au même risque.
+La **RC professionnelle** couvre les conséquences financières des fautes professionnelles. La **garantie financière** protège les fonds confiés à l'intermédiaire. Elles ne répondent donc pas au même risque.
 
-Un courtier agissant en son nom doit généralement souscrire sa propre RC. Un
-mandataire peut être dispensé d'un contrat personnel lorsque son mandant lui
-fournit une garantie équivalente ou assume entièrement la responsabilité de ses
-actes dans les conditions du texte.
+Un courtier agissant en son nom doit généralement souscrire sa propre RC. Un mandataire peut être dispensé d'un contrat personnel lorsque son mandant lui fournit une garantie équivalente ou assume entièrement la responsabilité de ses actes dans les conditions du texte.
 
-La garantie financière n'est requise que lorsque des fonds sont effectivement
-encaissés ou confiés à l'intermédiaire, sous réserve de l'exception spécifique
-prévue en assurance pour certains mandats écrits d'encaissement.
+La garantie financière n'est requise que lorsque des fonds sont effectivement encaissés ou confiés à l'intermédiaire, sous réserve de l'exception spécifique prévue en assurance pour certains mandats écrits d'encaissement.
 
 ## En pratique
 
@@ -29,43 +22,21 @@ prévue en assurance pour certains mandats écrits d'encaissement.
 | IAS avec RC propre | 1 564 610 € par sinistre et 2 315 610 € par année | 115 000 € et au moins deux fois la moyenne mensuelle des fonds retenus pour le calcul |
 | IOBSP avec RC propre | 500 000 € par sinistre et 800 000 € par année | 115 000 € et au moins deux fois la moyenne mensuelle des fonds encaissés |
 
-**Assurance.** L. 512-6 impose la RC à tout intermédiaire, sauf si une assurance
-ou garantie équivalente lui est fournie par l'entreprise ou l'intermédiaire pour
-le compte duquel il agit, ou si celui-ci assume l'entière responsabilité de ses
-actes. Cette prise en charge doit être démontrable : le seul mot « mandataire »
-ne suffit pas.
+**Assurance.** L. 512-6 impose la RC à tout intermédiaire, sauf si une assurance ou garantie équivalente lui est fournie par l'entreprise ou l'intermédiaire pour le compte duquel il agit, ou si celui-ci assume l'entière responsabilité de ses actes. Cette prise en charge doit être démontrable : le seul mot « mandataire » ne suffit pas.
 
-L. 512-7 impose la garantie financière même en cas d'encaissement occasionnel.
-Elle ne s'applique toutefois pas aux versements pour lesquels une entreprise
-d'assurance a donné à l'intermédiaire un mandat écrit le chargeant expressément
-de l'encaissement des primes ou cotisations et éventuellement du règlement des
-sinistres. Cette exception est propre au texte assurance.
+L. 512-7 impose la garantie financière même en cas d'encaissement occasionnel. Elle ne s'applique toutefois pas aux versements pour lesquels une entreprise d'assurance a donné à l'intermédiaire un mandat écrit le chargeant expressément de l'encaissement des primes ou cotisations et éventuellement du règlement des sinistres. Cette exception est propre au texte assurance.
 
-**IOBSP.** Lorsque l'intermédiaire agit pour le compte ou sur mandat d'un
-établissement ou d'une autre personne énumérée par L. 519-3-4, cette personne
-couvre les conséquences pécuniaires de sa responsabilité. Dans les autres cas,
-l'intermédiaire souscrit sa RC conformément à R. 519-16.
+**IOBSP.** Lorsque l'intermédiaire agit pour le compte ou sur mandat d'un établissement ou d'une autre personne énumérée par L. 519-3-4, cette personne couvre les conséquences pécuniaires de sa responsabilité. Dans les autres cas, l'intermédiaire souscrit sa RC conformément à R. 519-16.
 
-Dès qu'un IOBSP se voit confier des fonds comme mandataire des parties, L. 519-4
-impose une garantie financière. À l'inscription, celui qui n'encaisse aucun
-fonds peut produire une déclaration sur l'honneur en ce sens : l'**arrêté du
-9 juin 2016 relatif au registre unique** (NOR FCPT1613759A), article 1er, 8°,
-admet, en lieu et place de l'attestation de garantie financière de R. 519-17,
-« une déclaration de l'intermédiaire par laquelle celui-ci atteste sur l'honneur
-ne pas encaisser de fonds ».
+Dès qu'un IOBSP se voit confier des fonds comme mandataire des parties, L. 519-4 impose une garantie financière. À l'inscription, celui qui n'encaisse aucun fonds peut produire une déclaration sur l'honneur en ce sens : l'arrêté du 9 juin 2016 relatif au registre unique (NOR FCPT1613759A), article 1er, 8°, admet, en lieu et place de l'attestation de garantie financière de R. 519-17, « une déclaration de l'intermédiaire par laquelle celui-ci atteste sur l'honneur ne pas encaisser de fonds ».
 
 ## Ce que ça ne couvre pas
 
-- Une RC de responsabilité civile générale ou d'exploitation ne remplace pas
-  automatiquement la RC réglementaire IAS ou IOBSP.
-- Le plafond minimal n'indique pas que toute police est adaptée : exclusions,
-  activités déclarées, territoire et franchises doivent être contrôlés.
-- La garantie financière n'indemnise pas une erreur de conseil ; la RC ne
-  remplace pas le cautionnement des fonds confiés.
-- Déclarer ne pas encaisser de fonds engage l'intermédiaire : ses flux réels
-  doivent rester cohérents avec cette déclaration.
-- Les montants peuvent être révisés par arrêté ; leurs liens de veille doivent
-  être contrôlés à chaque actualisation du corpus.
+- Une RC de responsabilité civile générale ou d'exploitation ne remplace pas automatiquement la RC réglementaire IAS ou IOBSP.
+- Le plafond minimal n'indique pas que toute police est adaptée : exclusions, activités déclarées, territoire et franchises doivent être contrôlés.
+- La garantie financière n'indemnise pas une erreur de conseil ; la RC ne remplace pas le cautionnement des fonds confiés.
+- Déclarer ne pas encaisser de fonds engage l'intermédiaire : ses flux réels doivent rester cohérents avec cette déclaration.
+- Les montants peuvent être révisés par arrêté ; leurs liens de veille doivent être contrôlés à chaque actualisation du corpus.
 
 ## Base juridique
 
@@ -90,11 +61,7 @@ ne pas encaisser de fonds ».
 
 ## Dernière vérification
 
-**8 septembre 2026.** Les minima IAS contrôlés dans A. 512-4 (version en
-vigueur depuis le 02/11/2024) ; les minima IOBSP contrôlés dans l'arrêté du
-26 juin 2012, lu mot pour mot le même jour (500 000/800 000 € ; 115 000 € +
-2× la moyenne mensuelle). L. 512-6, L. 519-3-4, R. 519-16 et R. 519-17
-également relus. Contribution Codex, relue par Claude.
+**8 septembre 2026.** Les minima IAS contrôlés dans A. 512-4 (version en vigueur depuis le 02/11/2024) ; les minima IOBSP contrôlés dans l'arrêté du 26 juin 2012, lu mot pour mot le même jour (500 000/800 000 € ; 115 000 € + 2× la moyenne mensuelle). L. 512-6, L. 519-3-4, R. 519-16 et R. 519-17 également relus. Responsabilité éditoriale : Mathieu Bourdieu.
 
 ---
 

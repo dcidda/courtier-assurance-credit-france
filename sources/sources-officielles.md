@@ -59,7 +59,7 @@ textuelle.
 
 | Référence | Objet | Preuve | Veille | Vérifié |
 |---|---|---|---|---|
-| R. 519-2 et R. 519-3 | Exemptions et seuils. **Rédaction en vigueur jusqu'au 20/11/2026** | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000025215044/ | 2026-09-08 |
+| R. 519-2 et R. 519-3 | Exemptions et seuils. **Rédaction en vigueur depuis le 20/11/2026** (décret n° 2026-105, art. 19 et 20). Seuils applicables fixés par l'arrêté du 1er mars 2012, art. 1er (mod. arrêté du 7 août 2026) : 1 000 opérations/an ou 500 000 €/an pour les crédits de L. 312-4-1 | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000025215044/ | 2026-09-08 |
 | R. 519-4 | Catégories d'IOBSP ; cumul (II) ; restriction MIOBSP crédit immobilier (IV) | https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039324584 | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000025215044/ | 2026-09-08 |
 | R. 519-7 | Champ de la capacité professionnelle ; passerelles crédit immobilier (II, III) | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000025215056/ | 2026-09-08 |
 | R. 519-8 à R. 519-10 | Capacité professionnelle : 150 h / 80 h / durée suffisante, diplômes, exceptions expérience + 40 h | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000025215056/ | 2026-09-08 |
@@ -70,8 +70,8 @@ textuelle.
 | R. 519-15 | Personnels concernés ; dérogation 6 mois sous supervision | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000025215056/ | 2026-09-08 |
 | L. 519-11 | Adhésion obligatoire à une association agréée : IOBSP (courtiers) et leurs mandataires ; exemptions MOBSPL/MOBSP et LPS/LE | — | https://www.legifrance.gouv.fr/codes/id/LEGIARTI000043340568 | 2026-09-08 |
 | R. 519-34 à R. 519-45 | Missions des associations agréées IOBSP : médiation, honorabilité, RC pro, garantie financière, capacité (R. 519-39), formation continue crédit immobilier (R. 519-40), plan de vérification quinquennal (R. 519-41) | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000044399022/ | 2026-09-08 |
-| R. 519-19 à R. 519-26 | Règles de bonne conduite : support durable et conseil (R. 519-23), mentions publicité/catégorie (R. 519-24), rémunération non contraire à l'intérêt du client (R. 519-25, **jusqu'au 20/11/2026**), convention de frais et information rémunération (R. 519-26, en vigueur depuis le 31/10/2019 **sans échéance affichée**) | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000025215103/ | 2026-09-08 |
-| L. 519-6 et L. 519-6-1 | Interdiction de percevoir avant le versement des fonds (**jusqu'au 20/11/2026**) ; dérogation conseil indépendant | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000022952851/ | 2026-09-08 |
+| R. 519-19 à R. 519-26 | Règles de bonne conduite : support durable et conseil (R. 519-23), mentions publicité/catégorie (R. 519-24), rémunération non contraire à l'intérêt du client (R. 519-25, al. 1 inchangé ; al. 2 **en vigueur depuis le 20/11/2026**, décret n° 2026-105 art. 21, suppression du mot « exclusivement »), convention de frais et information rémunération (R. 519-26, en vigueur depuis le 31/10/2019 **sans échéance affichée**) | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000025215103/ | 2026-09-08 |
+| L. 519-6 et L. 519-6-1 | Interdiction de percevoir avant le versement des fonds ; alinéa nouveau sur la rémunération du personnel (**en vigueur depuis le 20/11/2026**, ord. n° 2025-880 art. 90) ; dérogation conseil indépendant (L. 519-6-1, art. 91) | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000022952851/ | 2026-09-08 |
 | L. 519-3-2 et L. 519-3-4 | Vérification de l'immatriculation par le mandant ; couverture de la RC pro de l'IOBSP mandaté par son mandant | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000022952802/ | 2026-09-08 |
 | L. 546-1 à L. 546-4 | Registre unique : renouvellement annuel, information du registre et radiation d'office (L. 546-2), interdiction de confusion de catégorie et sanctions | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000022954073/ | 2026-09-08 |
 | R. 546-3 | Délai d'immatriculation (2 mois, dossier complet) ; déclaration des modifications dans le mois avant/après l'événement (IV) ; notification des mandats par le mandant (V) | https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044400685 | https://www.legifrance.gouv.fr/codes/id/LEGISCTA000025212322 | 2026-09-08 |
@@ -87,7 +87,7 @@ R. 519-18 : un seul lien de veille couvre ces entrées.
 
 **Note de vérification (2026-09-08).** Sections 1 et 2 relues intégralement
 (R. 519-1 à R. 519-18) pour les fiches catégories et capacité professionnelle.
-R. 519-2 et R. 519-3 affichés « en vigueur jusqu'au 20/11/2026 » : la réforme
+R. 519-2 et R. 519-3 étaient affichés « en vigueur jusqu'au 20/11/2026 » lors du relevé du 8 septembre 2026 ; ces rédactions ont depuis cédé la place. La réforme
 touche les exemptions. L. 519-11 et R. 519-34 à R. 519-45 lus intégralement
 après relecture croisée (versions en vigueur depuis le 01/04/2022). Lot « vie
 commerciale » : L. 546-1 à L. 546-4, L. 521-2/L. 521-3, R. 519-23 à
@@ -98,7 +98,7 @@ directement le 08/09/2026.
 
 | Référence | Objet | Preuve | Veille | Vérifié |
 |---|---|---|---|---|
-| L. 314-24 et L. 314-25 | Formation du prêteur et de l'intermédiaire. **Rédaction en vigueur jusqu'au 20/11/2026** | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032228060/ | 2026-08-30 |
+| L. 314-24 et L. 314-25 | Formation du prêteur et de l'intermédiaire. **Rédaction en vigueur depuis le 20/11/2026** : L. 314-24 vise les chapitres II et III (ord. n° 2025-880 art. 52) ; L. 314-25 ne vise plus que les personnes autres que le personnel des prêteurs et intermédiaires (art. 53 ; ord. n° 2025-1154 art. 2) | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032228060/ | 2026-08-30 |
 | L. 314-10 à L. 314-14 | Regroupements de crédits : rattachement au chapitre II ou III (seuil de part immobilière, L. 314-11 ; sûreté immobilière, L. 314-12) | — | https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032225816 | 2026-09-08 |
 | D. 314-22 à D. 314-29 | Section réglementaire actuelle. D. 314-23 = compétence professionnelle ; D. 314-25 = formation continue, durée minimale renvoyée à un arrêté du ministre chargé de l'économie | https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807658 (D. 314-25) | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032807650/ | 2026-08-30 |
 | D. 314-27 et D. 314-28 | Programme applicable aux crédits du chapitre II (conso), visés par l'arrêté du 14 août 2026, art. 1er | — | https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032807650/ | 2026-09-01 |
@@ -151,7 +151,7 @@ et le volet crédit de `commun/formation-a-distance.md` — intègrent désormai
 contenu réel de l'arrêté. Leur réponse courte n'est pas remise en cause pour le
 crédit immobilier : les 7 heures survivent, ce sont les références et le
 programme qui changent. Le volet DDA n'est pas concerné. S'ajoutent, côté vie
-commerciale, les rédactions « jusqu'au 20/11/2026 » constatées sur R. 519-2,
+commerciale, les rédactions « jusqu'au 20/11/2026 » alors constatées sur R. 519-2,
 R. 519-3, R. 519-25 et L. 519-6. R. 519-26 ne porte pas cette échéance.
 
 ## Procédure de veille
@@ -168,3 +168,33 @@ D. 314-22 à D. 314-29, R. 519-2/R. 519-3, R. 519-25, L. 519-6) et
 ## Dernière vérification générale
 
 **8 septembre 2026.**
+
+## Relecture du 24 novembre 2026
+
+Versions consolidées relues sur Légifrance, **par comparaison avec les rédactions
+antérieures** (même article rappelé à la veille de l'entrée en vigueur) :
+
+| Texte | État | Modificateur |
+|---|---|---|
+| L. 314-24 C. consommation | en vigueur depuis le 20/11/2026 — vise désormais les chapitres II et III | ord. n° 2025-880, art. 52 |
+| L. 314-25 C. consommation | en vigueur depuis le 20/11/2026 — recentré sur les tiers | ord. n° 2025-880 art. 53 ; ord. n° 2025-1154 art. 2 |
+| D. 314-22, D. 314-23 | en vigueur depuis le 20/11/2026 | décret n° 2026-719, art. 5 et 6 |
+| **D. 314-24, D. 314-25, D. 314-28** | **inchangés depuis le 01/07/2016** | — |
+| D. 314-26 | en vigueur depuis le 20/11/2026 — restreint au chapitre III | décret n° 2026-719, art. 7 |
+| D. 314-27 | en vigueur depuis le 20/11/2026 — remanié, étendu aux intermédiaires ; préexistait en 2018 | décret n° 2026-719, art. 8 |
+| D. 314-29 | en vigueur depuis le 20/11/2026 — référence précisée ; préexistait depuis 2016 | décret n° 2026-719, art. 9 |
+| R. 519-2, R. 519-3 CMF | en vigueur depuis le 20/11/2026 | décret n° 2026-105, art. 19 et 20 |
+| **R. 519-4 CMF** | **inchangé depuis le 31/10/2019** | — |
+| R. 519-25 CMF | al. 1 inchangé ; al. 2 en vigueur depuis le 20/11/2026 | décret n° 2026-105, art. 21 |
+| L. 519-4-1, L. 519-6, L. 519-6-1 CMF | en vigueur depuis le 20/11/2026 | ord. n° 2025-880, art. 89 à 91 |
+| Arrêté du 9 juin 2016, art. 2 | en vigueur depuis le 20/11/2026 — 7 h chapitre III, durée suffisante adaptée chapitre II | arrêté du 14 août 2026 |
+| Arrêté du 1er mars 2012, art. 1er | en vigueur depuis le 20/11/2026 — seuils 1 000 op. / 500 000 € ; 20 op. / 200 000 € ; 20 op. services de paiement | arrêté du 7 août 2026 |
+
+**Droit transitoire.** Les contrats de crédit en cours au 20 novembre 2026 restent
+régis par les dispositions dans leur rédaction antérieure : art. 99, II ord.
+n° 2025-880 ; art. 7, II ord. n° 2025-1154 ; art. 30, II décret n° 2026-105 ;
+art. 12, III décret n° 2026-719.
+
+**Accès.** Légifrance oppose un contrôle anti-bot aux requêtes automatisées
+(HTTP 403). La relecture s'est faite au navigateur. Pour une veille répétée, la
+voie propre est l'API Légifrance (PISTE).

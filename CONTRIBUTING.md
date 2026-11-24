@@ -28,6 +28,24 @@ couvre expressément la formation continue et son IV fonde l'attestation. Vingt-
 fichiers ont été corrigés dans le mauvais sens avant que quelqu'un n'ouvre
 l'article.
 
+**Et lire la version en vigueur ne suffit pas : « Modifié par » n'est pas « Créé
+par ».** Avant d'affirmer qu'un texte est nouveau, comparer avec la rédaction
+antérieure — sur Légifrance, il suffit de rappeler le même article à la veille de
+l'entrée en vigueur, en datant l'URL (`…/ARTICLE_ID/2026-11-19`).
+
+Cette règle vient d'une seconde erreur, le 24 novembre 2026 : D. 314-27 et
+D. 314-29 du Code de la consommation ont été présentés comme créés par la réforme
+du 20 novembre alors qu'ils existaient depuis 2016 et 2018 ; et la modification
+de R. 519-25 a été cherchée au premier alinéa, inchangé, au lieu du second, dont
+le mot « exclusivement » avait été supprimé. Quatre affirmations fausses sur cinq
+venaient de l'absence de comparaison.
+
+**Corollaire : un plafond n'est pas un seuil.** R. 519-2 CMF autorise un arrêté à
+fixer des seuils « dans la limite de » 2 000 opérations ou 1 000 000 € ; les
+seuils applicables, fixés par l'arrêté du 1er mars 2012, sont de 1 000 opérations
+ou 500 000 €. Publier le plafond à la place du seuil revient à publier un chiffre
+faux avec l'apparence d'une source.
+
 ## 3. Identifier les arrêtés par leur NOR, jamais par leur seule date
 
 **Quatre arrêtés sont datés du 9 juin 2016** et touchent l'intermédiation. Un
@@ -87,7 +105,22 @@ inexistante détruit la crédibilité qu'il est censé porter.
 
 En cas d'écart entre ce dépôt et dcidda.fr, **c'est dcidda.fr qui fait foi**.
 
-## 8. Format imposé d'une fiche
+## 8. Vérifier le rendu, pas seulement la source
+
+**Pour modifier un tableau, reprendre le nombre de colonnes de son en-tête, et
+vérifier dans le rendu que chaque référence juridique s'affiche.**
+
+Cette règle vient d'un défaut rencontré deux fois sur ce corpus. Une ligne à
+trois colonnes ajoutée dans un tableau qui en a deux est acceptée par le
+compilateur, passe le build, et perd silencieusement sa dernière cellule au
+rendu : le lecteur voit le point de droit, pas le texte qui le fonde. Un tableau
+« Base juridique » amputé de sa colonne Source est pire qu'un tableau absent.
+
+Plus largement : `tsc` et le build ne contrôlent pas le sens. Une fiche dont la
+date affichée en tête contredit le corps de sa section « Dernière vérification »
+compile parfaitement et se lit mal. Le contrôle se fait sur la page produite.
+
+## 9. Format imposé d'une fiche
 
 Frontmatter : `canonical`, `question`, `statut`, `derniere_verification`.
 
@@ -97,14 +130,14 @@ vérification**.
 
 Une fiche répond à une question réellement posée, pas à un article.
 
-## 9. Dater ce qui a été vérifié, et distinguer de ce qui ne l'a pas été
+## 10. Dater ce qui a été vérifié, et distinguer de ce qui ne l'a pas été
 
 La section « Dernière vérification » dit **ce qui a été relu, quand, et ce qui
 ne l'a pas été**. « Les autres articles sont repris de fiches vérifiées le
 8 septembre 2026, sans relecture nouvelle » est une mention utile, pas un aveu
 de faiblesse.
 
-## 10. En cas de doute, ne pas trancher
+## 11. En cas de doute, ne pas trancher
 
 Signaler l'ambiguïté plutôt que de la résoudre au jugé. Une qualification
 inventée est plus coûteuse qu'une question posée : elle a l'apparence d'une

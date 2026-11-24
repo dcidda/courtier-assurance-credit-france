@@ -9,66 +9,31 @@ derniere_verification: 2026-09-08
 
 ## Réponse courte
 
-**Aucun volume horaire chiffré n'est fixé par la loi.** Pour un IOBSP qui
-n'exerce pas en crédit immobilier — crédit à la consommation, prêt viager
-hypothécaire, services de paiement, et regroupement de crédits **lorsqu'il
-relève du régime du crédit à la consommation** — l'article
-**R. 519-11-3, I du Code monétaire et financier** impose une formation continue
-« **d'une durée suffisante adaptée à leurs activités**, prenant notamment en
-compte les changements de la législation ou de la réglementation applicable ».
+**Aucun volume horaire chiffré n'est fixé par la loi.** Pour un IOBSP qui n'exerce pas en crédit immobilier — crédit à la consommation, prêt viager hypothécaire, services de paiement, et regroupement de crédits **lorsqu'il relève du régime du crédit à la consommation** — l'article **R. 519-11-3, I du Code monétaire et financier** impose une formation continue « **d'une durée suffisante adaptée à leurs activités**, prenant notamment en compte les changements de la législation ou de la réglementation applicable ».
 
-Les 7 heures ne concernent que le crédit immobilier, par le Code de la
-consommation. Les appliquer à tous les IOBSP est l'erreur la plus répandue du
-secteur.
+Les 7 heures ne concernent que le crédit immobilier, par le Code de la consommation. Les appliquer à tous les IOBSP est l'erreur la plus répandue du secteur.
 
 ## En pratique
 
-**« Suffisante » s'apprécie au regard de l'activité réelle.** Le texte ne donne
-ni plancher ni méthode : c'est une obligation de moyens documentée. En
-contrôle, la question posée est « votre formation couvre-t-elle les évolutions
-réglementaires des activités que vous exercez ? », pas « avez-vous atteint
-N heures ? ».
+**« Suffisante » s'apprécie au regard de l'activité réelle.** Le texte ne donne ni plancher ni méthode : c'est une obligation de moyens documentée. En contrôle, la question posée est « votre formation couvre-t-elle les évolutions réglementaires des activités que vous exercez ? », pas « avez-vous atteint N heures ? ».
 
-**Les associations agréées peuvent fixer leurs propres attentes.** Chaque
-association définit ses exigences de justification, opposables à l'adhérent au
-titre de son adhésion — pas un seuil légal, et pas de règle uniforme entre
-associations : c'est auprès de la sienne qu'il faut vérifier. Registre :
-interprétation, non obligation.
+**Les associations agréées peuvent fixer leurs propres attentes.** Chaque association définit ses exigences de justification, opposables à l'adhérent au titre de son adhésion — pas un seuil légal, et pas de règle uniforme entre associations : c'est auprès de la sienne qu'il faut vérifier. Registre : interprétation, non obligation.
 
-**Attention au regroupement de crédits.** Il n'est pas systématiquement hors
-crédit immobilier : L. 314-11 soumet l'opération au régime du crédit immobilier
-(chapitre III) lorsque la part des crédits immobiliers regroupés dépasse un
-seuil fixé par décret, et L. 314-12 y soumet **toute** opération garantie par
-une hypothèque ou une sûreté comparable sur un immeuble d'habitation, quel que
-soit son objet. Un IOBSP « regroupement » peut donc relever des 7 heures.
+**Attention au regroupement de crédits.** Il n'est pas systématiquement hors crédit immobilier : L. 314-11 soumet l'opération au régime du crédit immobilier (chapitre III) lorsque la part des crédits immobiliers regroupés dépasse un seuil fixé par décret, et L. 314-12 y soumet **toute** opération garantie par une hypothèque ou une sûreté comparable sur un immeuble d'habitation, quel que soit son objet. Un IOBSP « regroupement » peut donc relever des 7 heures.
 
-**Prudence professionnelle raisonnable.** S'aligner volontairement sur 7 h
-annuelles documentées est une pratique défendable en contrôle et simple à
-justifier. La présenter comme une obligation légale serait inexact.
+**Prudence professionnelle raisonnable.** S'aligner volontairement sur 7 h annuelles documentées est une pratique défendable en contrôle et simple à justifier. La présenter comme une obligation légale serait inexact.
 
-**Multi-inscriptions.** Un IOBSP inscrit en crédit conso **et** crédit
-immobilier cumule : 7 h côté immobilier (imputables sur l'obligation générale
-par R. 519-11-3, II) et le complément « suffisant » pour ses autres activités.
+**Multi-inscriptions.** Un IOBSP inscrit en crédit conso **et** crédit immobilier cumule : 7 h côté immobilier (imputables sur l'obligation générale par R. 519-11-3, II) et le complément « suffisant » pour ses autres activités.
 
 ## Ce que ça ne couvre pas
 
-- **Le crédit immobilier**, qui relève des 7 h du Code de la consommation —
-  voir `iobsp/formation-continue-7h.md`.
-- **La quantification de « suffisante »** : aucun texte, aucune jurisprudence
-  consolidée connue de ce corpus ne la chiffre. Toute réponse chiffrée serait
-  inventée.
-- **Les obligations DDA** d'un double statut IAS — voir
-  `commun/double-statut-ias-iobsp.md`.
+- **Le crédit immobilier**, qui relève des 7 h du Code de la consommation — voir /ressources/formation-continue-iobsp-7h.
+- **La quantification de « suffisante »** : aucun texte, aucune jurisprudence consolidée connue de ce corpus ne la chiffre. Toute réponse chiffrée serait inventée.
+- **Les obligations DDA** d'un double statut IAS — voir /ressources/double-statut-ias-iobsp.
 
 ## Point de vigilance — la critique doctrinale
 
-L'imprécision de la norme est réelle et critiquée : une obligation sans volume
-ni méthode d'appréciation laisse l'intermédiaire face à l'appréciation de son
-association et, in fine, de l'ACPR. C'est précisément pour cela que la
-traçabilité (attestations datées, thèmes rattachés aux activités ORIAS) est la
-seule protection effective. Après le 20 novembre 2026, la dualité de régime est
-maintenue : l'arrêté du 14 août 2026 écrit « une durée suffisante adaptée aux
-opérations de crédit relevant du chapitre II » (crédit conso).
+L'imprécision de la norme est réelle et critiquée : une obligation sans volume ni méthode d'appréciation laisse l'intermédiaire face à l'appréciation de son association et, in fine, de l'ACPR. C'est précisément pour cela que la traçabilité (attestations datées, thèmes rattachés aux activités ORIAS) est la seule protection effective. Après le 20 novembre 2026, la dualité de régime est maintenue : l'arrêté du 14 août 2026 écrit « une durée suffisante adaptée aux opérations de crédit relevant du chapitre II » (crédit conso).
 
 ## Base juridique
 
@@ -91,9 +56,7 @@ opérations de crédit relevant du chapitre II » (crédit conso).
 
 ## Dernière vérification
 
-**8 septembre 2026.** R. 519-11-3 relu directement sur Légifrance (version en
-vigueur depuis le 18/06/2022, inchangée) ; L. 314-10 à L. 314-12 lus le même
-jour (en vigueur depuis le 01/07/2016).
+**8 septembre 2026.** R. 519-11-3 relu directement sur Légifrance (version en vigueur depuis le 18/06/2022, inchangée) ; L. 314-10 à L. 314-12 lus le même jour (en vigueur depuis le 01/07/2016).
 
 ---
 

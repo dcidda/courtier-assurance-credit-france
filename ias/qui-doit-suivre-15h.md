@@ -9,54 +9,26 @@ derniere_verification: 2026-09-08
 
 ## Réponse courte
 
-Les **15 heures annuelles** concernent l'intermédiaire d'assurance ainsi que les
-membres de son personnel qui recommandent, présentent ou proposent des contrats,
-aident à les conclure ou effectuent d'autres travaux préparatoires à leur
-conclusion. Tous les salariés du cabinet ne sont donc pas automatiquement
-concernés.
+Les **15 heures annuelles** concernent l'intermédiaire d'assurance ainsi que les membres de son personnel qui recommandent, présentent ou proposent des contrats, aident à les conclure ou effectuent d'autres travaux préparatoires à leur conclusion. Tous les salariés du cabinet ne sont donc pas automatiquement concernés.
 
-L'article L. 511-2, II du Code des assurances définit les personnes soumises ;
-l'article R. 512-13-1, I fixe la durée minimale de quinze heures par an.
+L'article L. 511-2, II du Code des assurances définit les personnes soumises ; l'article R. 512-13-1, I fixe la durée minimale de quinze heures par an.
 
 ## En pratique
 
-**Obligation.** Il faut raisonner à partir des tâches réellement exercées, et non
-du seul intitulé de poste. Un commercial, un chargé de clientèle qui présente
-les garanties ou un collaborateur qui prépare la conclusion d'un contrat entre
-dans le champ. Le cabinet doit pouvoir justifier le respect de l'obligation pour
-chaque personne concernée.
+**Obligation.** Il faut raisonner à partir des tâches réellement exercées, et non du seul intitulé de poste. Un commercial, un chargé de clientèle qui présente les garanties ou un collaborateur qui prépare la conclusion d'un contrat entre dans le champ. Le cabinet doit pouvoir justifier le respect de l'obligation pour chaque personne concernée.
 
-**Interprétation officielle.** L'ACPR inclut également les dirigeants des
-intermédiaires d'assurance dans l'obligation de formation continue. Sa fiche de
-février 2019 demande aux professionnels de tenir à jour la liste des personnes
-ou catégories de personnes à former, notamment après les mutations internes.
+**Interprétation officielle.** L'ACPR inclut également les dirigeants des intermédiaires d'assurance dans l'obligation de formation continue. Sa fiche de février 2019 demande aux professionnels de tenir à jour la liste des personnes ou catégories de personnes à former, notamment après les mutations internes.
 
-**Hors champ.** La publication ACPR de février 2019 exclut de l'obligation de
-formation continue les personnels « exerçant uniquement des activités de
-gestion de contrats d'assurance ». Par ailleurs, la FAQ ACPR indique — à
-propos des conditions de **capacité professionnelle** — que les personnels
-assurant uniquement des fonctions de secrétariat administratif ou de
-comptabilité ne réalisent pas, même indirectement, d'actes de distribution ;
-le même raisonnement par les actes vaut, par analogie, pour la formation
-continue (registre : interprétation).
+**Hors champ.** La publication ACPR de février 2019 exclut de l'obligation de formation continue les personnels « exerçant uniquement des activités de gestion de contrats d'assurance ». Par ailleurs, la FAQ ACPR indique — à propos des conditions de **capacité professionnelle** — que les personnels assurant uniquement des fonctions de secrétariat administratif ou de comptabilité ne réalisent pas, même indirectement, d'actes de distribution ; le même raisonnement par les actes vaut, par analogie, pour la formation continue (registre : interprétation).
 
-La méthode la plus solide consiste à établir une matrice annuelle : nom, poste,
-actes accomplis, produits distribués, modes de distribution et formations
-suivies. L'article R. 513-9 impose d'ailleurs au membre d'une association agréée
-de lui fournir chaque année une liste nominative du personnel concerné, avec le
-poste, le nombre d'heures et les thèmes suivis.
+La méthode la plus solide consiste à établir une matrice annuelle : nom, poste, actes accomplis, produits distribués, modes de distribution et formations suivies. L'article R. 513-9 impose d'ailleurs au membre d'une association agréée de lui fournir chaque année une liste nominative du personnel concerné, avec le poste, le nombre d'heures et les thèmes suivis.
 
 ## Ce que ça ne couvre pas
 
-- Le seul fait d'avoir accès à un logiciel métier ne suffit pas à décider qu'un
-  salarié distribue de l'assurance : ce sont ses actes qui comptent.
-- Un intitulé « back-office » ne crée pas non plus une exemption automatique si
-  la personne prépare effectivement la conclusion ou participe à l'exécution
-  des contrats.
-- La capacité professionnelle initiale et les 15 heures annuelles sont deux
-  obligations distinctes.
-- Le cas des intermédiaires d'assurance à titre accessoire (IATA) relève d'une
-  analyse séparée.
+- Le seul fait d'avoir accès à un logiciel métier ne suffit pas à décider qu'un salarié distribue de l'assurance : ce sont ses actes qui comptent.
+- Un intitulé « back-office » ne crée pas non plus une exemption automatique si la personne prépare effectivement la conclusion ou participe à l'exécution des contrats.
+- La capacité professionnelle initiale et les 15 heures annuelles sont deux obligations distinctes.
+- Le cas des intermédiaires d'assurance à titre accessoire (IATA) relève d'une analyse séparée — voir /ressources/iata-exemption.
 
 ## Base juridique
 
@@ -79,10 +51,7 @@ poste, le nombre d'heures et les thèmes suivis.
 
 ## Dernière vérification
 
-**8 septembre 2026.** L. 511-2, R. 512-13-1 et R. 513-9 relus sur Légifrance ;
-publication et FAQ ACPR lues le même jour. Contribution Codex, relue et
-retouchée par Claude (l'exemple secrétariat/comptabilité requalifié en
-analogie depuis la capacité professionnelle).
+**8 septembre 2026.** L. 511-2, R. 512-13-1 et R. 513-9 relus sur Légifrance ; publication et FAQ ACPR lues le même jour. Responsabilité éditoriale : Mathieu Bourdieu (l'exemple secrétariat/comptabilité requalifié en analogie depuis la capacité professionnelle).
 
 ---
 

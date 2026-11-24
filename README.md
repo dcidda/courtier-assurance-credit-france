@@ -53,6 +53,10 @@ rattache la réponse au texte officiel qui la fonde.
 | `commun/association-professionnelle-agreee.md` | Qui doit adhérer à une association agréée ? | ✅ |
 | `commun/rc-pro-garantie-financiere.md` | RC pro et garantie financière : qui, combien ? | ✅ |
 | `commun/honorabilite-professionnelle.md` | Qui est soumis à l'honorabilité ? | ✅ |
+| `ias/attestation-formation-dda.md` | Que doit contenir l'attestation de formation DDA, et qui la délivre ? | ✅ |
+| `ias/clause-beneficiaire-devoir-de-conseil.md` | Clause bénéficiaire en assurance vie : que doit conseiller le distributeur ? | ✅ |
+| `commun/heures-restantes-avant-31-decembre.md` | Il me reste des heures à faire avant le 31 décembre : que faut-il savoir ? | ✅ |
+| `commun/qualiopi-obligatoire-dci-dda.md` | Qualiopi est-il obligatoire pour la formation DCI et DDA ? | ✅ |
 
 Toutes les fiches sont rédigées après vérification directe de leurs articles
 sur Légifrance et ont fait l'objet d'une relecture croisée entre agents.
@@ -88,7 +92,7 @@ fait foi** : le site porte la date de dernière vérification effective.
 **Règle de publication : jamais le miroir avant la page canonique.** Un lien
 « Version canonique » pointant vers une page inexistante détruit la crédibilité
 qu'il est censé porter. Cette condition est remplie depuis le 11 septembre 2026,
-date de mise en ligne des 34 fiches sur dcidda.fr — d'où la publication de ce
+date de mise en ligne des 34 premières fiches sur dcidda.fr — d'où la publication de ce
 miroir.
 
 Corollaire pour les contributions : une fiche ne doit jamais être ajoutée ici
@@ -119,7 +123,7 @@ administratives ORIAS/RC/honorabilité) ont été fusionnées après relecture
 croisée, avec deux retouches (analogie secrétariat/comptabilité qualifiée,
 R. 511-3 ajouté pour la commission d'apport). Une dernière passe a supprimé
 deux raccourcis non textuels sur la LCB-FT et la multi-inscription — le corpus
-compte 33 fiches.
+comptait alors 33 fiches.
 
 **Réserve de la v7 levée.** L'arrêté du 14 août 2026 (NOR ECOT2621748A, JORF
 n° 0196 du 23 août 2026) avait été référencé sans être lu, Légifrance bloquant
@@ -130,6 +134,36 @@ consommation (chapitre II) ; les références sont recodifiées (D. 313-10-2 →
 D. 314-23, D. 313-10-4 → D. 314-25) et l'annexe de programme est remplacée.
 Entrée en vigueur au 20 novembre 2026, les contrats en cours restant régis par
 le droit antérieur.
+
+**24 novembre 2026.** Revalidation après l'entrée en vigueur de la réforme du
+crédit à la consommation. Versions consolidées relues **par comparaison avec les
+rédactions antérieures**, méthode désormais inscrite à la règle 2 de
+`CONTRIBUTING.md` : lire l'article en vigueur ne suffit pas, « Modifié par » n'est
+pas « Créé par ».
+
+Huit fiches corrigées : `reforme-20-novembre-2026`, `formation-continue-iobsp-7h`,
+`categories-iobsp`, `remunerations-honoraires-commissions`, `qcm-evaluation`,
+`justificatifs-et-controle`, `quelle-obligation-me-concerne`,
+`formation-a-distance`.
+
+Ce que la comparaison a établi, et qui n'était pas dans le corpus : L. 314-24 vise
+désormais les chapitres II **et** III ; D. 314-26 est restreint au chapitre III ;
+D. 314-27 et D. 314-29 **préexistaient** et ont été remaniés, non créés ; la seule
+modification de R. 519-25 est la suppression du mot « exclusivement » au second
+alinéa ; R. 519-2 donne un **plafond**, les seuils applicables sont dans l'arrêté
+du 1er mars 2012. Le droit transitoire — les contrats en cours au 20 novembre 2026
+restent régis par les dispositions dans leur rédaction antérieure — a été ajouté,
+il était absent.
+
+Les 17 évaluations de `_meta/evals.md` ont été rejouées à froid sur le corpus
+généré depuis la source du site. Seize réponses nettes. Un écart connu et accepté
+est consigné sous E14 : la règle transitoire est retrouvée sans faute quand la
+question la vise, et peut être omise d'une synthèse ouverte — incomplétude, non
+erreur.
+
+**Le corpus compte désormais 38 fiches**, et ce dépôt est **généré** depuis la
+source du site par `generer-corpus-depuis-site.mjs`, non plus édité à la main :
+entre septembre et novembre 2026, le miroir avait dérivé de 33 fiches sur 34.
 
 ## Maintenance
 

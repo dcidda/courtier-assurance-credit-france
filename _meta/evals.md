@@ -1,6 +1,6 @@
 # Évaluations
 
-Seize questions réelles, avec la réponse attendue et le **piège** que la
+Dix-sept questions réelles, avec la réponse attendue et le **piège** que la
 plupart des réponses non sourcées commettent.
 
 Objectif : mesurer l'écart entre un agent avec ce skill et un agent sans, sur
@@ -76,22 +76,58 @@ Protocole : poser la question à froid, sans le skill, puis avec. Noter
 **Attendu.** D. 6313-3-1 du Code du travail : assistance technique et pédagogique, information sur les activités et leur durée moyenne, évaluations jalonnant ou concluant l'action. Ce socle se cumule avec le droit sectoriel.
 **Piège.** Ne raisonner qu'en droit des assurances ou en droit bancaire, en oubliant le droit de la formation.
 
-### E14 — Horizon réglementaire
-**Question.** Le régime de formation des intermédiaires de crédit à la consommation va-t-il changer ?
-**Attendu.** Oui. Entrée en vigueur au 20 novembre 2026 de l'ordonnance n° 2025-880 rectifiée par n° 2025-1154, et des décrets n° 2026-105 et n° 2026-719, en transposition de la directive (UE) 2023/2225. S'y ajoute l'arrêté du 14 août 2026 (JORF du 23 août 2026), qui modifie l'arrêté du 9 juin 2016 pris pour l'application de D. 313-10-2 du Code de la consommation — soit le texte qui porte le régime de formation continue en crédit immobilier.
-**Piège.** Présenter le droit en vigueur comme stable sans signaler une échéance connue et proche.
+### E14 — Ce que la réforme a changé, et ce qu'elle n'a pas créé
+**Question.** Qu'est-ce que la réforme du 20 novembre 2026 change pour la formation des intermédiaires de crédit à la consommation ?
+**Attendu.** Elle **est en vigueur** depuis le 20 novembre 2026 (ordonnance n° 2025-880 rectifiée par n° 2025-1154, décrets n° 2026-105 et n° 2026-719, arrêté du 14 août 2026), en transposition de la directive (UE) 2023/2225. Elle **maintient** la dualité de régime : 7 heures par année civile en crédit immobilier, durée suffisante adaptée en crédit à la consommation. Elle **élargit** L. 314-24, qui vise désormais les contrats de crédit relevant des chapitres II et III, là où il ne visait que les crédits de L. 313-1. Les contrats de crédit en cours au 20 novembre 2026 restent régis par les dispositions dans leur rédaction antérieure.
+**Piège double.** Annoncer la réforme comme à venir — elle est en vigueur. Et présenter comme **créés** par elle le programme du crédit à la consommation (D. 314-27, qui existait dans sa rédaction de 2018) ou l'obligation de mise à jour des connaissances (D. 314-29, depuis 2016) : ils ont été remaniés et étendus, pas créés.
 
-### E15 — Après la réforme, le crédit à la consommation
-**Question.** Après le 20 novembre 2026, un IOBSP qui ne distribue que du crédit à la consommation devra-t-il 7 heures ?
-**Attendu.** Non. L'arrêté du 14 août 2026 récrit l'article 2 de l'arrêté du 9 juin 2016 en distinguant expressément deux régimes : les 7 heures valent « pour les opérations de crédit relevant du chapitre III » (crédit immobilier), et « une durée suffisante adaptée » vaut pour celles du chapitre II (crédit à la consommation). La dualité de régime est donc maintenue, et non supprimée, par la réforme. Les contrats en cours au 20 novembre 2026 restent régis par le droit antérieur (art. 5).
-**Piège double.** Répondre « 7 heures » sans distinguer la nature du crédit — ou conclure que la réforme supprime toute obligation pour le crédit à la consommation.
+**Écart connu et accepté au 24 novembre 2026.** Trois rejeux à froid après
+correction du corpus : la règle transitoire est **retrouvée sans faute** dès que
+la question la vise (E17), et reste **omise** d'une synthèse ouverte sur « ce que
+la réforme change ». Le paragraphe a été placé en tête de « En pratique » de la
+fiche réforme ; le déplacer une fois de plus reviendrait à régler l'éval plutôt
+que le corpus. Rien de faux n'est dit dans la synthèse : c'est une incomplétude,
+pas une erreur. Ne pas traiter un nouvel échec d'E14 sur ce point comme une
+régression, et **ne pas assouplir la question** — une éval qu'on allège parce
+qu'elle échoue cesse de mesurer quoi que ce soit.
+
+### E15 — Le crédit à la consommation depuis la réforme
+**Question.** Un IOBSP qui ne distribue que du crédit à la consommation doit-il 7 heures de formation continue ?
+**Attendu.** Non. L'article 2 de l'arrêté du 9 juin 2016, dans sa version en vigueur depuis le 20 novembre 2026, fixe la durée minimale de formation continue à « 7 heures par année civile pour les opérations de crédit relevant du chapitre III et d'une durée suffisante adaptée aux opérations de crédit relevant du chapitre II ». Une réponse complète ne s'arrête pas à « aucun texte » : **trois textes complémentaires** encadrent cette formation continue — R. 519-11-3, I CMF, l'article 2 de l'arrêté, et D. 314-29 du Code de la consommation — et **aucun ne fixe de minimum horaire chiffré**. Tout chiffre avancé pour le crédit à la consommation relève d'un choix d'organisme ou d'une exigence d'association agréée.
+**Piège triple.** Répondre « 7 heures » sans distinguer la nature du crédit. Conclure que la réforme supprime toute obligation pour le crédit à la consommation. Et répondre « aucun texte ne concerne la formation continue en crédit conso », ce qui est inexact.
 
 ### E16 — Citation ambiguë du 9 juin 2016
 **Question.** L'arrêté du 9 juin 2016 est-il toujours en vigueur ?
 **Attendu.** Refuser de répondre oui ou non sans identifier le texte. Quatre arrêtés pertinents portent cette date : celui pris pour l'application de D. 313-10-2 (NOR FCPT1610795A), celui relatif au registre unique (NOR FCPT1613759A), celui portant approbation des programmes IOBSP (NOR FCPT1610790A, abrogé depuis le 30 juillet 2022) et celui relatif aux conditions de capacité professionnelle (NOR FCPT1610793A). Demander l'objet, le NOR ou l'identifiant Légifrance ; ne jamais compléter la référence par supposition.
 **Piège.** Confondre le texte « programmes » abrogé avec l'arrêté D. 313-10-2 toujours en vigueur, ou répondre à partir de la seule date.
 
+### E17 — Droit transitoire
+**Question.** Quel droit régit un contrat de crédit encore en cours au 20 novembre 2026 ?
+**Attendu.** Le droit antérieur continue de régir ce contrat. Les textes de transposition le disent tous : art. 99, II de l'ordonnance n° 2025-880 ; art. 7, II de l'ordonnance n° 2025-1154 ; art. 30, II du décret n° 2026-105 ; art. 12, III du décret n° 2026-719. Deux régimes coexistent donc, selon la date du contrat.
+**Piège double.** Appliquer uniformément le nouveau droit à tout un portefeuille. Ou, à l'inverse, en déduire que les rédactions antérieures sont encore en vigueur de façon générale : elles ne survivent que pour les contrats déjà conclus.
+
 ---
+
+## Deux façons de tester une même règle
+
+Une règle peut être **dans** le corpus sans être **trouvable** dans une synthèse.
+Ce sont deux propriétés différentes, et il faut une éval pour chacune.
+
+- Une question **frontale** vérifie que la règle existe et qu'elle est exacte.
+  Exemple : E17, « quel droit régit un contrat de crédit encore en cours au
+  20 novembre 2026 ? »
+- Une question de **synthèse** vérifie que la règle remonte d'elle-même quand on
+  ne la nomme pas. Exemple : E14, « qu'est-ce que la réforme change ? »
+
+Le 24 novembre 2026, le corpus a réussi E17 et manqué E14 sur le même point : le
+droit transitoire n'existait que dans une ligne de tableau et dans une
+énumération d'articles. Deux endroits qu'on ne lit pas en survolant. L'écart ne
+portait pas sur le contenu mais sur le **placement**, et aucune question posée
+frontalement ne l'aurait révélé.
+
+Règle à en tirer : pour tout point qui compte, prévoir **les deux**. Si la
+réponse frontale passe et que la synthèse l'omet, c'est le corpus qu'il faut
+déplacer, pas l'éval qu'il faut assouplir.
 
 ## Grille de notation
 
@@ -104,6 +140,10 @@ Protocole : poser la question à froid, sans le skill, puis avec. Noter
 
 Un corpus qui échoue à E12 ne doit pas être publié, quel que soit son score
 par ailleurs.
+
+E14, E15 et E17 ont été réécrites le 24 novembre 2026, après l'entrée en vigueur
+de la réforme : rédigées au futur, elles auraient validé une réponse devenue
+inexacte.
 
 ## Cas de contamination observés dans le secteur
 

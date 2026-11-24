@@ -9,47 +9,25 @@ derniere_verification: 2026-09-08
 
 ## Réponse courte
 
-**Aucun texte vérifié n'exclut le format audio.** Côté DDA, la formation à
-distance et le fractionnement en plusieurs séquences sont expressément admis.
-Côté IOBSP, le texte ne fixe pas de modalité pédagogique particulière.
+**Aucun texte vérifié n'exclut le format audio.** Côté DDA, la formation à distance et le fractionnement en plusieurs séquences sont expressément admis. Côté IOBSP, le texte ne fixe pas de modalité pédagogique particulière.
 
-Mais une série de fichiers audio mise à disposition n'est pas, à elle seule, la
-preuve d'une action de formation conforme. Il faut réunir les exigences de
-contenu, d'accompagnement, d'évaluation, de durée effectivement suivie et de
-traçabilité propres au régime applicable.
+Mais une série de fichiers audio mise à disposition n'est pas, à elle seule, la preuve d'une action de formation conforme. Il faut réunir les exigences de contenu, d'accompagnement, d'évaluation, de durée effectivement suivie et de traçabilité propres au régime applicable.
 
 ## En pratique
 
-**Obligation DDA.** R. 512-13-1, II autorise les prestations à distance, en une
-ou plusieurs séquences consécutives ou non. L'action doit actualiser les
-compétences nécessaires et être adaptée aux produits, aux modes de distribution
-et aux fonctions. La liste des formations doit mentionner l'entité, la date, la
-durée, les modalités et les thèmes.
+**Obligation DDA.** R. 512-13-1, II autorise les prestations à distance, en une ou plusieurs séquences consécutives ou non. L'action doit actualiser les compétences nécessaires et être adaptée aux produits, aux modes de distribution et aux fonctions. La liste des formations doit mentionner l'entité, la date, la durée, les modalités et les thèmes.
 
-**Obligation IOBSP.** R. 519-11-3 exige une durée suffisante et un contenu
-adapté. R. 519-12 impose un contrôle à l'issue de la formation et une attestation.
-Le silence sur le support ne vaut pas homologation d'un format : il oblige à
-vérifier toutes les autres conditions.
+**Obligation IOBSP.** R. 519-11-3 exige une durée suffisante et un contenu adapté. R. 519-12 impose un contrôle à l'issue de la formation et une attestation. Le silence sur le support ne vaut pas homologation d'un format : il oblige à vérifier toutes les autres conditions.
 
-**Obligation de formation à distance.** D. 6313-3-1 exige une assistance
-technique et pédagogique, une information sur les activités et leur durée
-moyenne, ainsi que des évaluations jalonnant ou concluant l'action. R. 6313-3
-demande au dispensateur de justifier la réalisation par tout élément probant.
+**Obligation de formation à distance.** D. 6313-3-1 exige une assistance technique et pédagogique, une information sur les activités et leur durée moyenne, ainsi que des évaluations jalonnant ou concluant l'action. R. 6313-3 demande au dispensateur de justifier la réalisation par tout élément probant.
 
-**Interprétation prudente.** Un parcours audio peut donc être intégré à une
-action conforme s'il comporte, par exemple, une identification nominative, des
-séquences horodatées, une assistance accessible, des activités ou évaluations,
-la preuve de réalisation, un programme rattaché aux compétences éligibles et une
-attestation. Il faut parler de « formation conforme au dispositif » et jamais de
-« podcast validé par l'ACPR ».
+**Interprétation prudente.** Un parcours audio peut donc être intégré à une action conforme s'il comporte, par exemple, une identification nominative, des séquences horodatées, une assistance accessible, des activités ou évaluations, la preuve de réalisation, un programme rattaché aux compétences éligibles et une attestation. Il faut parler de « formation conforme au dispositif ».
 
 ## Ce que ça ne couvre pas
 
 - La durée théorique des pistes ne prouve pas que l'apprenant les a suivies.
-- Le téléchargement d'un fichier ou la connexion à une plateforme ne prouve pas
-  à lui seul la réalisation de l'action.
-- Côté DDA, l'ACPR ne valide ni les contenus, ni les organismes, ni les parcours ;
-  les expressions « formation ACPR » ou « validée par l'ACPR » sont à éviter.
+- Le téléchargement d'un fichier ou la connexion à une plateforme ne prouve pas à lui seul la réalisation de l'action.
+- Côté DDA, l'ACPR ne valide ni les contenus, ni les organismes, ni les parcours de formation.
 - Côté IOBSP, une simple écoute sans contrôle final ne satisfait pas R. 519-12.
 - Cette fiche ne traite ni du financement OPCO ni de la certification Qualiopi.
 
@@ -75,9 +53,7 @@ attestation. Il faut parler de « formation conforme au dispositif » et jamais 
 
 ## Dernière vérification
 
-**8 septembre 2026.** Textes Légifrance et position ACPR relus. Conclusion sur
-l'audio qualifiée d'interprétation, le support n'étant pas nommé par les
-textes. Contribution Codex, relue par Claude.
+**8 septembre 2026.** Textes Légifrance et position ACPR relus. Conclusion sur l'audio qualifiée d'interprétation, le support n'étant pas nommé par les textes. Responsabilité éditoriale : Mathieu Bourdieu.
 
 ---
 

@@ -9,69 +9,33 @@ derniere_verification: 2026-09-08
 
 ## Réponse courte
 
-Avant de commencer à distribuer des assurances ou à exercer l'intermédiation en
-opérations de banque, le professionnel doit obtenir son inscription dans la ou
-les catégories ORIAS correspondant exactement à son activité.
+Avant de commencer à distribuer des assurances ou à exercer l'intermédiation en opérations de banque, le professionnel doit obtenir son inscription dans la ou les catégories ORIAS correspondant exactement à son activité.
 
-Le dossier associe quatre blocs : **identité et existence juridique**,
-**justification de la catégorie**, **conditions professionnelles** et
-**garanties**. Les courtiers et certains de leurs mandataires doivent également
-produire une attestation d'adhésion à une association professionnelle agréée.
+Le dossier associe quatre blocs : **identité et existence juridique**, **justification de la catégorie**, **conditions professionnelles** et **garanties**. Les courtiers et certains de leurs mandataires doivent également produire une attestation d'adhésion à une association professionnelle agréée.
 
-L'ORIAS dispose d'un délai réglementaire maximal de deux mois à compter de la
-réception d'un **dossier complet**. Ce délai n'autorise pas à exercer avant
-l'inscription effective.
+L'ORIAS dispose d'un délai réglementaire maximal de deux mois à compter de la réception d'un **dossier complet**. Ce délai n'autorise pas à exercer avant l'inscription effective.
 
 ## En pratique
 
-**1. Identifier la bonne catégorie.** Côté assurance : courtier, agent général,
-mandataire d'assurance ou mandataire d'intermédiaire. Côté IOBSP : courtier,
-mandataire exclusif, mandataire non exclusif ou mandataire d'intermédiaire. Une
-nouvelle catégorie nécessite une demande propre ; une catégorie approximative
-ne couvre pas une activité différente.
+**1. Identifier la bonne catégorie.** Côté assurance : courtier, agent général, mandataire d'assurance ou mandataire d'intermédiaire. Côté IOBSP : courtier, mandataire exclusif, mandataire non exclusif ou mandataire d'intermédiaire. Une nouvelle catégorie nécessite une demande propre ; une catégorie approximative ne couvre pas une activité différente.
 
-**2. Constituer le socle administratif.** Le dossier comporte notamment
-l'identité, les coordonnées professionnelles, la forme juridique, le numéro
-SIREN et, selon le cas, un extrait d'immatriculation de moins de trois mois. Pour
-une personne morale, les dirigeants et responsables de l'activité doivent être
-identifiés. Côté IAS, les participations supérieures à 10 % font aussi partie des
-informations prévues par A. 512-1.
+**2. Constituer le socle administratif.** Le dossier comporte notamment l'identité, les coordonnées professionnelles, la forme juridique, le numéro SIREN et, selon le cas, un extrait d'immatriculation de moins de trois mois. Pour une personne morale, les dirigeants et responsables de l'activité doivent être identifiés. Côté IAS, les participations supérieures à 10 % font aussi partie des informations prévues par A. 512-1.
 
-**3. Prouver la catégorie et la capacité.** Le courtier produit l'inscription au
-RCS mentionnant son activité ; le mandataire produit son ou ses mandats. Les
-justificatifs de capacité professionnelle dépendent de la catégorie : diplôme,
-expérience ou formation. Ils ne sont pas interchangeables par simple
-déclaration.
+**3. Prouver la catégorie et la capacité.** Le courtier produit l'inscription au RCS mentionnant son activité ; le mandataire produit son ou ses mandats. Les justificatifs de capacité professionnelle dépendent de la catégorie : diplôme, expérience ou formation. Ils ne sont pas interchangeables par simple déclaration.
 
-**4. Justifier RC professionnelle et fonds encaissés.** L'intermédiaire produit
-son attestation de RC professionnelle ou la preuve que son mandant assume
-l'entière responsabilité de ses actes lorsque le texte l'autorise. S'il reçoit
-des fonds pour le compte des parties, il doit justifier d'une garantie
-financière. Pour un IOBSP qui n'encaisse pas de fonds, l'arrêté permet une
-déclaration sur l'honneur en ce sens.
+**4. Justifier RC professionnelle et fonds encaissés.** L'intermédiaire produit son attestation de RC professionnelle ou la preuve que son mandant assume l'entière responsabilité de ses actes lorsque le texte l'autorise. S'il reçoit des fonds pour le compte des parties, il doit justifier d'une garantie financière. Pour un IOBSP qui n'encaisse pas de fonds, l'arrêté permet une déclaration sur l'honneur en ce sens.
 
-**5. Produire l'adhésion associative lorsqu'elle est obligatoire.** L'attestation
-doit dater de moins de deux mois. Cette exigence vise notamment les courtiers
-d'assurance, les courtiers IOBSP et certains de leurs mandataires ; elle ne
-s'applique pas indistinctement à toutes les catégories.
+**5. Produire l'adhésion associative lorsqu'elle est obligatoire.** L'attestation doit dater de moins de deux mois. Cette exigence vise notamment les courtiers d'assurance, les courtiers IOBSP et certains de leurs mandataires ; elle ne s'applique pas indistinctement à toutes les catégories.
 
-**6. Déposer et payer.** Les démarches sont réalisées depuis le compte
-utilisateur ORIAS. Les frais réglementaires sont actuellement de **25 euros par
-inscription** et ne sont pas remboursables. Le paiement ne remplace aucune pièce
-manquante.
+**6. Déposer et payer.** Les démarches sont réalisées depuis le compte utilisateur ORIAS. Les frais réglementaires sont actuellement de **25 euros par inscription** et ne sont pas remboursables. Le paiement ne remplace aucune pièce manquante.
 
 ## Ce que ça ne couvre pas
 
-- L'immatriculation d'une entreprise ne dispense pas de vérifier séparément la
-  capacité et l'honorabilité de ses salariés concernés.
+- L'immatriculation d'une entreprise ne dispense pas de vérifier séparément la capacité et l'honorabilité de ses salariés concernés.
 - Un numéro SIREN ou un mandat ne vaut pas, à lui seul, inscription ORIAS.
-- L'inscription dans une catégorie IAS ne permet pas d'exercer comme IOBSP, et
-  inversement.
-- La liste exacte des pièces varie selon la catégorie, la forme juridique, les
-  mandats, l'encaissement de fonds et l'exercice éventuel dans un autre État.
-  La liste générée dans le parcours ORIAS doit donc être contrôlée avant dépôt.
-- L'ORIAS vérifie l'accès au registre ; il ne délivre ni agrément ACPR ni
-  certification de compétence.
+- L'inscription dans une catégorie IAS ne permet pas d'exercer comme IOBSP, et inversement.
+- La liste exacte des pièces varie selon la catégorie, la forme juridique, les mandats, l'encaissement de fonds et l'exercice éventuel dans un autre État. La liste générée dans le parcours ORIAS doit donc être contrôlée avant dépôt.
+- L'ORIAS vérifie l'accès au registre ; il ne délivre ni agrément ACPR ni certification de compétence.
 
 ## Base juridique
 
@@ -95,9 +59,7 @@ manquante.
 
 ## Dernière vérification
 
-**8 septembre 2026.** A. 512-1, R. 512-5, R. 546-3 et l'arrêté du 20 décembre
-2012 consolidé relus sur Légifrance (délai de deux mois et frais de 25 €
-vérifiés mot pour mot). Contribution Codex, relue par Claude.
+**8 septembre 2026.** A. 512-1, R. 512-5, R. 546-3 et l'arrêté du 20 décembre 2012 consolidé relus sur Légifrance (délai de deux mois et frais de 25 € vérifiés mot pour mot). Responsabilité éditoriale : Mathieu Bourdieu.
 
 ---
 
